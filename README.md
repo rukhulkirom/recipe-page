@@ -16,8 +16,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Github](https://github.com/rukhulkirom/social-links-profile)
-- Live Site URL: [Netlify](https://social-links-profile-rukhul.netlify.app/)
+- Solution URL: [Github](https://github.com/rukhulkirom/recipe-page)
+- Live Site URL: [Netlify](https://recipe-page-rukhul.netlify.app/)
 
 ## My process
 
